@@ -1,2 +1,7 @@
 # groundpolis.app
-groundpolis.app related documents repository
+
+Groundpolis の利用規約とか諸々保存用リポジトリ。
+
+## ライセンス
+
+CC0
