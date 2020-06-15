@@ -1,6 +1,9 @@
-# groundpolis.app
+# groundpolis.app ドキュメント
 
-Groundpolis の利用規約とか諸々保存用リポジトリ。
+Groundpolis 公式サーバーである groundpolis.app に関連する書類
+
+- [利用規約](tos.md)
+- [カスタム絵文字ガイドライン](emoji-guideline.md)
 
 ## ライセンス
 
