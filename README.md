@@ -1,6 +1,6 @@
-# groundpolis.app ドキュメント
+# エビポリス関連ドキュメント
 
-Groundpolis 公式サーバーである groundpolis.app に関連する書類
+海老瀬るちかが運営するGroundpolisインスタンス「エビポリス」に関連する書類
 
 - [利用規約](tos.md)
 - [カスタム絵文字ガイドライン](emoji-guideline.md)
